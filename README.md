@@ -1,8 +1,8 @@
 ## Projeto de aprendizado de máquina - SCC0530 - Inteligência Artificial
 
----
-
 Trabalho 2 da disciplina de Inteligência Artificial do curso de Sistemas de Informação da USP São Carlos, envolvendo a aplicação de técnicas de aprendizado de máquina em datasets selecionados.
+
+---
 
 Para instalar as dependências de projeto do jupyter notebook digite no terminal do powershell:
 
