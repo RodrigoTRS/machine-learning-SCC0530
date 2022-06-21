@@ -1,5 +1,5 @@
-## Projeto de aprendizado de máquina - SCC053 - Inteligência Artificial
-
+## Projeto de aprendizado de máquina - SCC0530 - Inteligência Artificial
+---
 Trabalho 2 da disciplina de Inteligência Artificial do curso de Sistemas de Informação da USP São Carlos, envolvendo a aplicação de técnicas de aprendizado de máquina em datasets selecionados.
 ---
 
