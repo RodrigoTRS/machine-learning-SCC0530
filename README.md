@@ -14,5 +14,5 @@ E então, a pricípio você será capaz de rodar todos os blocos de código do r
 
 ## Grupo
 - Rodrigo Teixeira Ribeiro da Silva, 11816164
-- João Pedro Alonso, 11816164
-- Allan Baldissin, 11816164
+- João Pedro Alonso, 11832343
+- Allan Baldissin, 8657904
